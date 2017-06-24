@@ -1,0 +1,13 @@
+.profile_card{
+  background-color: grey;
+}
+
+.profile_title{
+  margin-bottom: 0;
+  font-family: 'Spectral', serif;
+}
+
+.profile_subtitle{
+  margin-top: 0;
+  font-family: 'Spectral', serif;
+}
