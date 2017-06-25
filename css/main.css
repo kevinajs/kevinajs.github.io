@@ -4,21 +4,29 @@
 
 .profile_title{
   margin-bottom: 0;
+  font-size: 45px;
   font-family: 'Spectral', serif;
+  font-weight: bold;
 }
 
 .profile_subtitle{
   margin-top: 0;
+  font-size: 35px;
   font-family: 'Spectral', serif;
 }
 
+.list-group-item {
+  text-align: center;
+}
+
+.personal_links {
+  border: none;
+}
+
 .list-group-item > a {
+  font-size: 20px;
   font-family: 'Spectral', serif;
   font-weight: bold;
   text-transform: uppercase;
   color: green;
-}
-
-.list_group {
-  text-align: center;
 }
