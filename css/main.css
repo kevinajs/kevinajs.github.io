@@ -30,3 +30,10 @@
   text-transform: uppercase;
   color: green;
 }
+
+.about_me_title {
+  font-size: 45px;
+  font-family: 'Spectral', serif;
+  font-weight: bold;
+  text-align: center;
+}
